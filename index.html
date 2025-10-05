@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cyclistic Data Analysis - Tableau Dashboard</title>
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+        .header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        .header p {
+            margin: 10px 0 0 0;
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        .dashboard-container {
+            max-width: 1400px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        #tableauViz {
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 0.9em;
+        }
+    </style>
+    <script type="text/javascript">
+        function initializeViz() {
+            var placeholderDiv = document.getElementById("tableauViz");
+            var url = "https://public.tableau.com/views/Cyclistic-UserDataDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link";
+            var options = {
+                width: "100%",
+                height: "800px",
+                hideTabs: true,
+                hideToolbar: false,
+                onFirstInteractive: function () {
+                    console.log("Tableau Dashboard loaded successfully.");
+                }
+            };
+            var viz = new tableau.Viz(placeholderDiv, url, options);
+        }
+    </script>
+</head>
+<body onload="initializeViz();">
+    <div class="header">
+        <h1>Cyclistic Data Analysis Dashboard</h1>
+        <p>Google Data Analytics Capstone Project - Path A</p>
+    </div>
+    <div class="dashboard-container">
+        <div id="tableauViz"></div>
+    </div>
+    <div class="footer">
+        <p>Cyclistic Data Analysis &copy; 2024</p>
+    </div>
+</body>
+</html>
