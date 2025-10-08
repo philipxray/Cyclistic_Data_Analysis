@@ -47,7 +47,6 @@ Produce a report with the following deliverables:
 
 Guiding Questions
 
-Guiding questions
 ● Where is your data located?
 
 ● How is the data organized?
@@ -68,9 +67,13 @@ Guiding Questions:
 
 Guiding questions
 ● What tools are you choosing and why?
+
 ● Have you ensured your data’s integrity?
+
 ● What steps have you taken to ensure that your data is clean?
+
 ● How can you verify that your data is clean and ready to analyze?
+
 ● Have you documented your cleaning process so you can review and share those
 results?
 
@@ -78,29 +81,44 @@ results?
 ## Phase 4 – Analyze
 
 Guiding questions
+
 ● How should you organize your data to perform analysis on it?
+
 ● Has your data been properly formatted?
+
 ● What surprises did you discover in the data?
+
 ● What trends or relationships did you find in the data?
+
 ● How will these insights help answer your business questions?
 
 ## Phase 5 - SHARE
 
 Guiding questions
+
 ● Were you able to answer the question of how annual members and casual riders use Cyclistic bikes
 differently?
+
 ● What story does your data tell?
+
 ● How do your findings relate to your original question?
+
 ● Who is your audience? What is the best way to communicate with them?
+
 ● Can data visualization help you share your findings?
+
 ● Is your presentation accessible to your audience?
 
 ## Phase 6 – ACT
 
 Guiding questions
+
 ● What is your final conclusion based on your analysis?
+
 ● How could your team and business apply your insights?
+
 ● What next steps would you or your stakeholders take based on your findings?
+
 ● Is there additional data you could use to expand on your findings?
 
 
