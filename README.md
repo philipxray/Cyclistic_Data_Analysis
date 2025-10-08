@@ -47,13 +47,13 @@ Produce a report with the following deliverables:
 
 Guiding Questions
 
-● Where is your data located?
+● Where is your data located?<br>
 
-● How is the data organized?
+● How is the data organized?<br>
 
-● Are there issues with bias or credibility in this data? Does your data ROCCC?
+● Are there issues with bias or credibility in this data? Does your data ROCCC?<br>
 
-● How are you addressing licensing, privacy, security, and accessibility?
+● How are you addressing licensing, privacy, security, and accessibility?<br>
 
 ● How did you verify the data’s integrity?
 
