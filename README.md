@@ -1,6 +1,5 @@
-# Cyclistic_Data_Analysis
 Google Data Analytics Case/Path "A" - Capstone Project
-# Cyclistic Bike-Share: Google Data Analytics Capstone Project
+# Cyclistic Bikeshare: Google Data Analytics Capstone Project
 
 ![Cyclistic](https://user-images.githubusercontent.com/63750425/224968385-9521ab10-d278-4595-a829-08b4f1c645be.png)
 
