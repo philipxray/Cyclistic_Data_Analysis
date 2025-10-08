@@ -49,11 +49,17 @@ Guiding Questions
 
 Guiding questions
 ● Where is your data located?
+
 ● How is the data organized?
+
 ● Are there issues with bias or credibility in this data? Does your data ROCCC?
+
 ● How are you addressing licensing, privacy, security, and accessibility?
+
 ● How did you verify the data’s integrity?
+
 ● How does it help you answer your question?
+
 ● Are there any problems with the data?
 
 ## Phase 3 – PROCESS
