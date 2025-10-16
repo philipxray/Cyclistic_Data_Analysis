@@ -18,8 +18,19 @@ This repo contains the Google Data Analytics Capstone - Case Study 1 project, wh
 Guiding questions: 
 
 1.	How do annual members and casual riders use Cyclistic bikes differently? 
-2.	Why would casual riders buy Cyclistic annual memberships? 
-3.	How can Cyclistic use digital media to influence casual riders to become members?
+2.	Why would casual riders buy Cyclistic annual memberships?
+    The Cyclistic trip dataset includes information on how riders use the service — such as ride duration, time of day, distance, and start/end locations, but it does not contain financial, demographic, or survey data.
+  	Therefore, we cannot directly analyze the role of pricing or personal preferences in membership decisions. But by analyzing usage data, we can infer several marketable points:
+
+  	Frequency & consistency: If casual riders take multiple rides per month, they might save money by switching to an annual plan.
+
+    Ride duration: Casual riders with longer rides may be exploring the city — a membership might encourage shorter, more frequent commutes.
+
+    Seasonality: If casual riders are active across multiple months or seasons (not just summer tourists), they could benefit from year-round access.
+
+    Time of day: If many casual rides occur during commute hours (morning/evening), those users might be potential daily commuters who could gain from unlimited rides.
+  	
+4.	How can Cyclistic use digital media to influence casual riders to become members?
 
 
 
