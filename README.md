@@ -21,7 +21,7 @@ Guiding questions:
 2.	Why would casual riders buy Cyclistic annual memberships?
 
   	The Cyclistic trip dataset includes information on how riders use the service — such as ride duration, time of day, distance, and start/end locations, but it does not contain financial, demographic, or survey data.
-  	Therefore, we cannot directly analyze the role of pricing or personal preferences in membership decisions. But by analyzing usage data, we can infer several marketable points:
+  	Therefore, we cannot directly analyze the role of pricing or personal preferences in membership decisions. By analyzing usage metrics, we can infer several marketable points:
 
   	Frequency & consistency: If casual riders take multiple rides per month, they might save money by switching to an annual plan.
 
