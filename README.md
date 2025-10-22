@@ -60,7 +60,7 @@ Produce a report with the following deliverables:
 Guiding Questions
 
 ● Where is your data located?<br>
-
+https://divvy-tripdata.s3.amazonaws.com/index.html
 ● How is the data organized?<br>
 
 ● Are there issues with bias or credibility in this data? Does your data ROCCC?<br>
